@@ -1,5 +1,4 @@
-# Axonista Test App
-#### (both Preethi rao and @unicorncoderforever is same, I have 2 github accounts and my system commits with my other github account name)
+# TMDB movie site sample program to demostrate the usage of android Components as well as written test cases, (coroutine android Test cases are written) App
 ### The App is developed using core android architechture components and purely follows the android MVVM pattern,
 
 ##### I have referred Android github sample project to develop this app
